@@ -1,1 +1,0 @@
-Custom Poco now located @ https://github.com/Torndeco/poco
